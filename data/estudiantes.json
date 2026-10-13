@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elkin",
+    "apellido": "Macias",
+    "email": "elkin@gmail.com",
+    "carnet": "15",
+    "carrera": "Matematicas"
+  }
+]
